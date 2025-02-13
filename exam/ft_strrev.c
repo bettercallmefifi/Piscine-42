@@ -21,7 +21,7 @@ char	ft_strrev(char *str)
 
 int main()
 {
-	char str[] = "ferdaous";
+	char str[] = "ferdaous is the best";
 	char result = ft_strrev(str);
 	printf("%c\n",result);
 	return(0);
